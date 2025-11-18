@@ -1,18 +1,53 @@
-# React + Vite
+# 🌐 Companies Directory — React Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Company Directory Application** built using **React + Tailwind CSS**, featuring search, filtering, sorting, pagination, and clean UI components.  
+This project was developed as part of a frontend assessment to demonstrate React skills, component design, and API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 https://companies-directory-react.netlify.app/  
+---
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### ✅ Core Functionality
+- 🔍 Search companies by name, industry, or location  
+- 🎛️ Filter companies by:
+  - Location  
+  - Industry  
+- 🔄 Sorting options:
+  - Name (A → Z / Z → A)  
+  - Employees (Low → High / High → Low)  
+  - Founded Year (Newest → Oldest)  
+- 📄 Pagination (9 items per page)
+- 🖥️ Responsive design for all screen sizes
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 🎨 UI & UX Enhancements
+- Smooth hover animations on company cards  
+- Green border highlights for selected filters  
+- Hover → border turns green for better feedback  
+- Skeleton loaders for improved UX  
+- Empty state UI for no-filter matches  
+- Clean card design using React Icons & Lucide Icons  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- React.js  
+- Tailwind CSS  
+- React Icons  
+- Lucide Icons  
+
+### Data Source:
+- Static JSON file (`companies.json`)  
+- Loaded through a custom data-fetching hook    
+
+---
+
+
+
