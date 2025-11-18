@@ -1,14 +1,12 @@
 [
   {
     "id": 1,
-    "name": "TechNova Solutions",
-    "location": "Hyderabad",
-    "industry": "Software",
-    "employees": 250,
-    "founded": 2012,
-    "revenue": 45,
-    "email": "info@technova.com",
-    "phone": "+91-9876543201"
+    "name": "UrbanNest Realty",
+    "location": "Mumbai",
+    "industry": "Real Estate",
+    "employees": 160,
+    "founded": 2011,
+    "description": "Modern real estate developer offering premium residential and commercial spaces across major cities."
   },
   {
     "id": 2,
@@ -17,9 +15,7 @@
     "industry": "Agriculture",
     "employees": 120,
     "founded": 2010,
-    "revenue": 18,
-    "email": "contact@greenleaf.com",
-    "phone": "+91-9876543202"
+    "description": "Sustainable agriculture enterprise offering eco-friendly farming products and high-yield crop solutions."
   },
   {
     "id": 3,
@@ -28,9 +24,7 @@
     "industry": "Logistics",
     "employees": 540,
     "founded": 2004,
-    "revenue": 76,
-    "email": "support@skyhighlogistics.com",
-    "phone": "+91-9876543203"
+    "description": "Reliable logistics and supply chain partner providing fast, secure, and nationwide delivery services."
   },
   {
     "id": 4,
@@ -39,20 +33,16 @@
     "industry": "Healthcare",
     "employees": 320,
     "founded": 2015,
-    "revenue": 52,
-    "email": "hello@medicorelabs.com",
-    "phone": "+91-9876543204"
+    "description": "Advanced healthcare technology lab specializing in diagnostics, medical devices, and patient wellness solutions."
   },
   {
     "id": 5,
-    "name": "UrbanNest Realty",
-    "location": "Mumbai",
-    "industry": "Real Estate",
-    "employees": 160,
-    "founded": 2011,
-    "revenue": 63,
-    "email": "sales@urbannest.com",
-    "phone": "+91-9876543205"
+    "name": "TechNova Solutions",
+    "location": "Hyderabad",
+    "industry": "Software",
+    "employees": 250,
+    "founded": 2012,
+    "description": "Innovative software development company delivering scalable digital solutions for modern businesses."
   },
   {
     "id": 6,
@@ -61,9 +51,7 @@
     "industry": "Software",
     "employees": 480,
     "founded": 2008,
-    "revenue": 90,
-    "email": "info@bluewave.com",
-    "phone": "+91-9876543206"
+    "description": "Leading software solutions provider specializing in cloud systems, automation, and digital transformation."
   },
   {
     "id": 7,
@@ -72,9 +60,7 @@
     "industry": "Retail",
     "employees": 90,
     "founded": 2017,
-    "revenue": 12,
-    "email": "care@freshmart.com",
-    "phone": "+91-9876543207"
+    "description": "Organic retail chain offering fresh, chemical-free food products sourced directly from local farms."
   },
   {
     "id": 8,
@@ -83,9 +69,7 @@
     "industry": "Finance",
     "employees": 230,
     "founded": 2013,
-    "revenue": 78,
-    "email": "contact@peakpoint.com",
-    "phone": "+91-9876543208"
+    "description": "Trusted financial services firm delivering secure investment, wealth management, and advisory solutions."
   },
   {
     "id": 9,
@@ -94,9 +78,7 @@
     "industry": "Education",
     "employees": 150,
     "founded": 2016,
-    "revenue": 15,
-    "email": "info@brightminds.com",
-    "phone": "+91-9876543209"
+    "description": "Education company focused on digital learning tools, interactive courses, and student skill enhancement."
   },
   {
     "id": 10,
@@ -105,9 +87,7 @@
     "industry": "Aviation",
     "employees": 850,
     "founded": 2002,
-    "revenue": 240,
-    "email": "support@aerostar.com",
-    "phone": "+91-9876543210"
+    "description": "Premier aviation services provider offering safe, efficient, and modern flight operations and maintenance."
   },
   {
     "id": 11,
@@ -116,9 +96,7 @@
     "industry": "Software",
     "employees": 320,
     "founded": 2010,
-    "revenue": 64,
-    "email": "info@quantumbyte.com",
-    "phone": "+91-9876543211"
+    "description": "Technology company delivering enterprise-grade software, cloud migration, and system integration services."
   },
   {
     "id": 12,
@@ -127,9 +105,7 @@
     "industry": "Manufacturing",
     "employees": 700,
     "founded": 2005,
-    "revenue": 102,
-    "email": "contact@ecolife.com",
-    "phone": "+91-9876543212"
+    "description": "Eco-friendly textile manufacturer producing high-quality garments using sustainable production methods."
   },
   {
     "id": 13,
@@ -138,9 +114,7 @@
     "industry": "Automobile",
     "employees": 1100,
     "founded": 1998,
-    "revenue": 310,
-    "email": "support@silverlineauto.com",
-    "phone": "+91-9876543213"
+    "description": "Leading automobile manufacturer known for durable vehicles, smart engineering, and advanced mobility solutions."
   },
   {
     "id": 14,
@@ -149,9 +123,7 @@
     "industry": "Cloud Services",
     "employees": 260,
     "founded": 2014,
-    "revenue": 40,
-    "email": "hello@cloudzen.com",
-    "phone": "+91-9876543214"
+    "description": "Cloud hosting provider offering secure servers, high uptime, and seamless digital infrastructure solutions."
   },
   {
     "id": 15,
@@ -160,9 +132,7 @@
     "industry": "Food",
     "employees": 180,
     "founded": 2012,
-    "revenue": 25,
-    "email": "care@farmfresh.com",
-    "phone": "+91-9876543215"
+    "description": "Premium dairy brand delivering fresh, hygienic, and high-quality milk and dairy products."
   },
   {
     "id": 16,
@@ -171,9 +141,7 @@
     "industry": "Construction",
     "employees": 900,
     "founded": 2001,
-    "revenue": 410,
-    "email": "info@novabuild.com",
-    "phone": "+91-9876543216"
+    "description": "Trusted construction company specializing in commercial projects, residential towers, and infrastructure development."
   },
   {
     "id": 17,
@@ -182,9 +150,7 @@
     "industry": "Healthcare",
     "employees": 1400,
     "founded": 2009,
-    "revenue": 620,
-    "email": "support@primecare.com",
-    "phone": "+91-9876543217"
+    "description": "Multi-specialty hospital chain delivering advanced medical treatments, patient care, and emergency services."
   },
   {
     "id": 18,
@@ -193,9 +159,7 @@
     "industry": "Electronics",
     "employees": 520,
     "founded": 2013,
-    "revenue": 105,
-    "email": "contact@voltedge.com",
-    "phone": "+91-9876543218"
+    "description": "Electronics manufacturer producing smart devices and high-performance components for modern consumers."
   },
   {
     "id": 19,
@@ -204,9 +168,7 @@
     "industry": "Travel",
     "employees": 210,
     "founded": 2016,
-    "revenue": 33,
-    "email": "info@globelink.com",
-    "phone": "+91-9876543219"
+    "description": "Travel solutions provider offering curated vacation packages, business trips, and global tour services."
   },
   {
     "id": 20,
@@ -215,9 +177,7 @@
     "industry": "Energy",
     "employees": 400,
     "founded": 2011,
-    "revenue": 150,
-    "email": "contact@smartgrid.com",
-    "phone": "+91-9876543220"
+    "description": "Clean energy company delivering smart power solutions, renewable energy systems, and utility optimization."
   },
   {
     "id": 21,
@@ -226,9 +186,7 @@
     "industry": "Robotics",
     "employees": 240,
     "founded": 2018,
-    "revenue": 35,
-    "email": "hello@nextgenrobotics.com",
-    "phone": "+91-9876543221"
+    "description": "Robotics innovator designing intelligent automation systems and next-gen robotic assistants."
   },
   {
     "id": 22,
@@ -237,9 +195,7 @@
     "industry": "Food",
     "employees": 350,
     "founded": 2006,
-    "revenue": 50,
-    "email": "care@oceanwave.com",
-    "phone": "+91-9876543222"
+    "description": "Seafood processing company delivering fresh, sustainably sourced seafood to global markets."
   },
   {
     "id": 23,
@@ -248,9 +204,7 @@
     "industry": "Fashion",
     "employees": 480,
     "founded": 2014,
-    "revenue": 70,
-    "email": "support@urbanstyle.com",
-    "phone": "+91-9876543223"
+    "description": "Contemporary fashion brand offering stylish apparel and trend-driven collections for modern consumers."
   },
   {
     "id": 24,
@@ -259,9 +213,7 @@
     "industry": "Consulting",
     "employees": 90,
     "founded": 2017,
-    "revenue": 20,
-    "email": "info@brightpath.com",
-    "phone": "+91-9876543224"
+    "description": "Business consulting firm specializing in strategy, operations, and digital transformation advisory."
   },
   {
     "id": 25,
@@ -270,9 +222,7 @@
     "industry": "Automobile",
     "employees": 750,
     "founded": 2003,
-    "revenue": 210,
-    "email": "contact@innodrive.com",
-    "phone": "+91-9876543225"
+    "description": "Automobile company manufacturing high-performance vehicles with cutting-edge engineering."
   },
   {
     "id": 26,
@@ -281,9 +231,7 @@
     "industry": "Cosmetics",
     "employees": 260,
     "founded": 2015,
-    "revenue": 48,
-    "email": "hello@pureglow.com",
-    "phone": "+91-9876543226"
+    "description": "Beauty brand offering premium skincare and cosmetic products made with natural ingredients."
   },
   {
     "id": 27,
@@ -292,9 +240,7 @@
     "industry": "Electronics",
     "employees": 180,
     "founded": 2013,
-    "revenue": 32,
-    "email": "support@aquatech.com",
-    "phone": "+91-9876543227"
+    "description": "Electronics company delivering advanced water purifiers and smart home filtration systems."
   },
   {
     "id": 28,
@@ -303,9 +249,7 @@
     "industry": "Insurance",
     "employees": 350,
     "founded": 2009,
-    "revenue": 95,
-    "email": "info@silvercloud.com",
-    "phone": "+91-9876543228"
+    "description": "Insurance provider offering secure coverage plans, financial protection, and long-term security solutions."
   },
   {
     "id": 29,
@@ -314,9 +258,7 @@
     "industry": "Education",
     "employees": 200,
     "founded": 2016,
-    "revenue": 22,
-    "email": "contact@eduwave.com",
-    "phone": "+91-9876543229"
+    "description": "Learning solutions company delivering digital education tools, training programs, and student development resources."
   },
   {
     "id": 30,
@@ -325,9 +267,7 @@
     "industry": "Retail",
     "employees": 980,
     "founded": 2000,
-    "revenue": 280,
-    "email": "care@megamart.com",
-    "phone": "+91-9876543230"
+    "description": "Large retail chain offering a wide range of household essentials, groceries, and lifestyle products."
   },
   {
     "id": 31,
@@ -336,9 +276,7 @@
     "industry": "Cybersecurity",
     "employees": 210,
     "founded": 2014,
-    "revenue": 56,
-    "email": "hello@ironclad.com",
-    "phone": "+91-9876543231"
+    "description": "Cybersecurity firm providing threat protection, data security, and enterprise cyber defense solutions."
   },
   {
     "id": 32,
@@ -347,9 +285,7 @@
     "industry": "Sports",
     "employees": 170,
     "founded": 2018,
-    "revenue": 28,
-    "email": "info@fitflex.com",
-    "phone": "+91-9876543232"
+    "description": "Sports equipment and fitness brand offering premium gear designed for athletes and active lifestyles."
   },
   {
     "id": 33,
@@ -358,9 +294,7 @@
     "industry": "Chemicals",
     "employees": 420,
     "founded": 2010,
-    "revenue": 70,
-    "email": "support@crystalclean.com",
-    "phone": "+91-9876543233"
+    "description": "Chemical manufacturer specializing in sanitizers, disinfectants, and industrial hygiene products."
   },
   {
     "id": 34,
@@ -369,9 +303,7 @@
     "industry": "Energy",
     "employees": 320,
     "founded": 2013,
-    "revenue": 88,
-    "email": "hello@brightbeam.com",
-    "phone": "+91-9876543234"
+    "description": "Solar energy company providing sustainable power solutions and high-efficiency solar installations."
   },
   {
     "id": 35,
@@ -380,9 +312,7 @@
     "industry": "Food",
     "employees": 440,
     "founded": 2007,
-    "revenue": 60,
-    "email": "contact@riverrun.com",
-    "phone": "+91-9876543235"
+    "description": "Refreshing beverages brand producing juices, bottled drinks, and natural hydration products."
   },
   {
     "id": 36,
@@ -391,9 +321,7 @@
     "industry": "Electronics",
     "employees": 300,
     "founded": 2012,
-    "revenue": 75,
-    "email": "support@corematrix.com",
-    "phone": "+91-9876543236"
+    "description": "Hardware company manufacturing computer components and high-performance electronic systems."
   },
   {
     "id": 37,
@@ -402,9 +330,7 @@
     "industry": "Media",
     "employees": 180,
     "founded": 2015,
-    "revenue": 42,
-    "email": "info@globalreach.com",
-    "phone": "+91-9876543237"
+    "description": "Media agency creating digital content, brand campaigns, and performance-driven marketing strategies."
   },
   {
     "id": 38,
@@ -413,9 +339,7 @@
     "industry": "Healthcare",
     "employees": 670,
     "founded": 2006,
-    "revenue": 190,
-    "email": "care@purehealth.com",
-    "phone": "+91-9876543238"
+    "description": "Pharmaceutical company developing high-quality medicines and advanced healthcare therapies."
   },
   {
     "id": 39,
@@ -424,9 +348,7 @@
     "industry": "Publishing",
     "employees": 140,
     "founded": 2011,
-    "revenue": 18,
-    "email": "info@novaprint.com",
-    "phone": "+91-9876543239"
+    "description": "Publishing house offering books, magazines, and digital content with a focus on creative storytelling."
   },
   {
     "id": 40,
@@ -435,9 +357,7 @@
     "industry": "Electronics",
     "employees": 510,
     "founded": 2014,
-    "revenue": 122,
-    "email": "support@trendytech.com",
-    "phone": "+91-9876543240"
+    "description": "Consumer electronics company delivering cutting-edge gadgets designed for modern lifestyles."
   },
   {
     "id": 41,
@@ -446,9 +366,7 @@
     "industry": "Interior Design",
     "employees": 120,
     "founded": 2017,
-    "revenue": 16,
-    "email": "hello@cityspace.com",
-    "phone": "+91-9876543241"
+    "description": "Interior design studio crafting modern, functional, and aesthetic living and workspace environments."
   },
   {
     "id": 42,
@@ -457,9 +375,7 @@
     "industry": "Hospitality",
     "employees": 780,
     "founded": 2002,
-    "revenue": 240,
-    "email": "info@skylinehotels.com",
-    "phone": "+91-9876543242"
+    "description": "Premium hotel chain offering luxury stays, fine dining, and exceptional guest experiences."
   },
   {
     "id": 43,
@@ -468,9 +384,7 @@
     "industry": "Automobile",
     "employees": 260,
     "founded": 2016,
-    "revenue": 34,
-    "email": "service@urbanwheels.com",
-    "phone": "+91-9876543243"
+    "description": "Automotive service provider offering expert repairs, maintenance, and premium car care solutions."
   },
   {
     "id": 44,
@@ -479,9 +393,7 @@
     "industry": "Cybersecurity",
     "employees": 330,
     "founded": 2012,
-    "revenue": 75,
-    "email": "support@cyberlink.com",
-    "phone": "+91-9876543244"
+    "description": "Security solutions firm specializing in cyber defense, network protection, and digital risk management."
   },
   {
     "id": 45,
@@ -490,9 +402,7 @@
     "industry": "Hospitality",
     "employees": 480,
     "founded": 2009,
-    "revenue": 110,
-    "email": "info@oceanview.com",
-    "phone": "+91-9876543245"
+    "description": "Luxury beachfront resort offering premium stays, ocean-facing rooms, and unforgettable holiday experiences."
   },
   {
     "id": 46,
@@ -501,9 +411,7 @@
     "industry": "Manufacturing",
     "employees": 1300,
     "founded": 1995,
-    "revenue": 520,
-    "email": "contact@apexsteel.com",
-    "phone": "+91-9876543246"
+    "description": "Large-scale steel manufacturer providing high-strength industrial materials and engineered steel products."
   },
   {
     "id": 47,
@@ -512,9 +420,7 @@
     "industry": "Logistics",
     "employees": 620,
     "founded": 2008,
-    "revenue": 92,
-    "email": "support@fastroute.com",
-    "phone": "+91-9876543247"
+    "description": "Express courier and logistics company offering fast deliveries and end-to-end parcel tracking."
   },
   {
     "id": 48,
@@ -523,9 +429,7 @@
     "industry": "Design",
     "employees": 80,
     "founded": 2019,
-    "revenue": 12,
-    "email": "hello@digitalcraft.com",
-    "phone": "+91-9876543248"
+    "description": "Creative design studio specializing in branding, digital design, and visual storytelling."
   },
   {
     "id": 49,
@@ -534,9 +438,7 @@
     "industry": "Finance",
     "employees": 300,
     "founded": 2018,
-    "revenue": 65,
-    "email": "info@brightfuture.com",
-    "phone": "+91-9876543249"
+    "description": "Fintech company offering secure digital payment systems, investment platforms, and smart financial tools."
   },
   {
     "id": 50,
@@ -545,8 +447,6 @@
     "industry": "Healthcare",
     "employees": 260,
     "founded": 2015,
-    "revenue": 30,
-    "email": "care@herbalpure.com",
-    "phone": "+91-9876543250"
+    "description": "Health and wellness brand producing natural herbal supplements and organic personal care products."
   }
 ]

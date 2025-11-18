@@ -20,7 +20,7 @@ export default function Pagination({ currentPage, totalPages, onPageChange }) {
             key={num}
             onClick={() => onPageChange(num)}
             className={`px-3 py-1 border rounded-lg 
-            ${currentPage === num ? "bg-blue-600 text-white" : "bg-white hover:bg-gray-100"}`}
+            ${currentPage === num ? "bg-green-500 text-white" : "bg-white hover:bg-gray-100"}`}
           >
             {num}
           </button>
